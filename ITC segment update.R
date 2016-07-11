@@ -1,3 +1,10 @@
+##########################################################
+# A modification of ITCsegment package by Michele Dalponte
+
+# Changes made by Tom Swinfield for the RSPB under funding from the Cambridge Conservation Initiative
+# Collaborative Fund
+##########################################################
+
 # Changes made:
 
 # 160607: - Enabled the search window to size to be scalable.
